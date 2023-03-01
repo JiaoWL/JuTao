@@ -63,6 +63,10 @@
 ._文本 {
   text-align:left;
 }
+._鼠标悬停文本链接 {
+}
+._鼠标按下文本链接 {
+}
 ._表单提示 {
   color:#999999;
 }
@@ -137,11 +141,36 @@
 }
 .shape {
 }
+.box_2 {
+}
 .ellipse {
 }
 .image1 {
   color:#000000;
 }
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 .flow_shape {
+}
+._私域视界v1_5 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+._私域视界v1_7_4 {
+  font-size:12px;
+  color:#FFFFFF;
+}
+._私域视界v1_7_11（样式优化） {
+  font-size:12px;
+  color:#FFFFFF;
+}
+._文本链接 {
+}
+._链接悬停 {
 }
 textarea, select, input, button { outline: none; }
